@@ -71,7 +71,7 @@ const jeff = new THREE.Mesh(new THREE.BoxGeometry(3, 3, 3), new THREE.MeshBasicM
 
 scene.add(jeff);
 
-// Moon
+// Moon - Chhhotia Chotin
 
 const moonTexture = new THREE.TextureLoader().load('moon.jpg');
 const normalTexture = new THREE.TextureLoader().load('normal.jpg');
